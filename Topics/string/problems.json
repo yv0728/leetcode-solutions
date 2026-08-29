@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-29T04:01:19.703Z",
+  "updatedAt": "2026-08-29T04:01:27.484Z",
   "problems": [
     {
       "frontendId": "459",
@@ -23,6 +23,26 @@
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.js",
           "sha": "b04fb2dea4bbb542c2590804e2e95b8732da0bef",
           "lastSyncedAt": "2026-08-29T04:01:00.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "problemName": "0500-keyboard-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+      "folderPath": "0500-keyboard-row/",
+      "readmePath": "0500-keyboard-row/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0500-keyboard-row.js",
+          "path": "0500-keyboard-row/0500-keyboard-row.js",
+          "sha": "14c3b4f62905e02bd41cc799c45f6ddead2611cb",
+          "lastSyncedAt": "2026-08-29T04:01:27.484Z"
         }
       ]
     },
