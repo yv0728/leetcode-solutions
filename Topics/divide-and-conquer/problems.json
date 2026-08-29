@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "divide-and-conquer",
+    "name": "Divide and Conquer"
+  },
+  "updatedAt": "2026-08-29T03:58:28.525Z",
+  "problems": [
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0169-majority-element.js",
+          "path": "0169-majority-element/0169-majority-element.js",
+          "sha": "eb6c547e92ba11f5430824bf383ccb467cb425d5",
+          "lastSyncedAt": "2026-08-29T03:58:28.525Z"
+        }
+      ]
+    }
+  ]
+}
