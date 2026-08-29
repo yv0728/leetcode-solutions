@@ -78,4 +78,5 @@ My solution to leetcode problems.
 | [0178-rank-scores](https://github.com/yv0728/leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/yv0728/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/yv0728/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/yv0728/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
