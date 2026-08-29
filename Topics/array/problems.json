@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-29T03:57:12.124Z",
-  "problems": []
+  "updatedAt": "2026-08-29T03:57:28.509Z",
+  "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "0001-two-sum/0001-two-sum.java",
+          "sha": "964a74a02756e5d1bb91d680c334fd16236da388",
+          "lastSyncedAt": "2026-08-29T03:57:28.509Z"
+        }
+      ]
+    }
+  ]
 }
