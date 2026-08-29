@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string-matching",
+    "name": "String Matching"
+  },
+  "updatedAt": "2026-08-29T03:58:45.383Z",
+  "problems": [
+    {
+      "frontendId": "459",
+      "title": "Repeated Substring Pattern",
+      "slug": "repeated-substring-pattern",
+      "problemName": "0459-repeated-substring-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-substring-pattern/",
+      "folderPath": "0459-repeated-substring-pattern/",
+      "readmePath": "0459-repeated-substring-pattern/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0459-repeated-substring-pattern.js",
+          "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.js",
+          "sha": "b04fb2dea4bbb542c2590804e2e95b8732da0bef",
+          "lastSyncedAt": "2026-08-29T03:58:45.383Z"
+        }
+      ]
+    }
+  ]
+}
