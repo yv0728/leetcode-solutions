@@ -6,13 +6,13 @@ My solution to leetcode problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 15 | 13 | 2 | 0 |
+| 16 | 13 | 3 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 2 days | 6 |
+| 1 days | 2 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -22,21 +22,22 @@ My solution to leetcode problems.
 | 2026-08-14 | 4 |
 | 2026-08-26 | 1 |
 | 2026-08-27 | 2 |
+| 2026-08-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 7 | 47% |
-| Hash Table | 5 | 33% |
-| Array | 4 | 27% |
-| String | 4 | 27% |
+| Database | 8 | 50% |
+| Hash Table | 5 | 31% |
+| Array | 4 | 25% |
+| String | 4 | 25% |
 | Sorting | 2 | 13% |
-| Boyer–Moore Majority Vote Algorithm | 1 | 7% |
-| Counting | 1 | 7% |
-| Divide and Conquer | 1 | 7% |
-| Knuth–Morris–Pratt Algorithm | 1 | 7% |
-| Math | 1 | 7% |
+| Boyer–Moore Majority Vote Algorithm | 1 | 6% |
+| Counting | 1 | 6% |
+| Divide and Conquer | 1 | 6% |
+| Knuth–Morris–Pratt Algorithm | 1 | 6% |
+| Math | 1 | 6% |
 
 ## Topics
 
@@ -50,7 +51,7 @@ My solution to leetcode problems.
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 7 |
+| [Database](Topics/database/) | 8 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
