@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-29T04:06:37.160Z",
+  "updatedAt": "2026-08-29T04:06:39.865Z",
   "problems": [
     {
       "frontendId": "175",
@@ -102,7 +102,7 @@
           "filename": "0183-customers-who-never-order.sql",
           "path": "0183-customers-who-never-order/0183-customers-who-never-order.sql",
           "sha": "65f8bad24be4844350161bd75fb637f22cbfb74a",
-          "lastSyncedAt": "2026-08-29T04:00:30.057Z"
+          "lastSyncedAt": "2026-08-29T04:06:39.865Z"
         }
       ]
     },
