@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select id,case when id%2=0 then x.prev when id%2=1 and x.next is null then x.student else x.next end as student from (select id,student,lag(student) over() as prev,lead(student) over() as next from seat)x;
