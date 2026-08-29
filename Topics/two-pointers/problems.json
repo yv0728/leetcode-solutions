@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-29T04:01:19.703Z",
+  "updatedAt": "2026-08-29T04:07:21.602Z",
   "problems": [
     {
       "frontendId": "541",
@@ -22,7 +22,7 @@
           "filename": "0541-reverse-string-ii.js",
           "path": "0541-reverse-string-ii/0541-reverse-string-ii.js",
           "sha": "44749609a15fe3024b2907e74566dc510954df19",
-          "lastSyncedAt": "2026-08-29T04:01:19.703Z"
+          "lastSyncedAt": "2026-08-29T04:07:21.602Z"
         }
       ]
     }
