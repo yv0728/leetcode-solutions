@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-29T03:58:28.525Z",
+  "updatedAt": "2026-08-29T04:00:44.084Z",
   "problems": [
     {
       "frontendId": "169",
@@ -42,7 +42,7 @@
           "filename": "0217-contains-duplicate.js",
           "path": "0217-contains-duplicate/0217-contains-duplicate.js",
           "sha": "05b760cfb682368902e7b34182092b9cd18e7c75",
-          "lastSyncedAt": "2026-08-29T03:58:19.889Z"
+          "lastSyncedAt": "2026-08-29T04:00:44.084Z"
         }
       ]
     }
