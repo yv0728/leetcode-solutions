@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-29T03:58:13.116Z",
+  "updatedAt": "2026-08-29T04:00:41.094Z",
   "problems": [
     {
       "frontendId": "7",
@@ -22,7 +22,7 @@
           "filename": "0007-reverse-integer.java",
           "path": "0007-reverse-integer/0007-reverse-integer.java",
           "sha": "31ca377c543ac2d49dad808de0cc9c249b1db39c",
-          "lastSyncedAt": "2026-08-29T03:58:13.116Z"
+          "lastSyncedAt": "2026-08-29T04:00:41.094Z"
         }
       ]
     }
