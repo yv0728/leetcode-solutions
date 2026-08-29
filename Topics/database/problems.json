@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-29T07:07:57.596Z",
+  "updatedAt": "2026-08-29T14:49:06.285Z",
   "problems": [
     {
       "frontendId": "175",
@@ -163,6 +163,26 @@
           "path": "0197-rising-temperature/0197-rising-temperature.sql",
           "sha": "d247df321cf36ad9475f0bef9d269f0105edc05d",
           "lastSyncedAt": "2026-08-29T04:06:37.160Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "626",
+      "title": "Exchange Seats",
+      "slug": "exchange-seats",
+      "problemName": "0626-exchange-seats",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/exchange-seats/",
+      "folderPath": "0626-exchange-seats/",
+      "readmePath": "0626-exchange-seats/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0626-exchange-seats.sql",
+          "path": "0626-exchange-seats/0626-exchange-seats.sql",
+          "sha": "9ad7f2db01f09c42a74c49df7cefaca8718bc131",
+          "lastSyncedAt": "2026-08-29T14:49:06.285Z"
         }
       ]
     }
