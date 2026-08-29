@@ -75,4 +75,5 @@ My solution to leetcode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/yv0728/leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
+| [0184-department-highest-salary](https://github.com/yv0728/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
