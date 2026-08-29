@@ -4,7 +4,7 @@
     "slug": "string-matching",
     "name": "String Matching"
   },
-  "updatedAt": "2026-08-29T04:01:00.797Z",
+  "updatedAt": "2026-08-29T04:07:09.214Z",
   "problems": [
     {
       "frontendId": "459",
@@ -22,7 +22,7 @@
           "filename": "0459-repeated-substring-pattern.js",
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.js",
           "sha": "b04fb2dea4bbb542c2590804e2e95b8732da0bef",
-          "lastSyncedAt": "2026-08-29T04:01:00.797Z"
+          "lastSyncedAt": "2026-08-29T04:07:09.214Z"
         }
       ]
     }
