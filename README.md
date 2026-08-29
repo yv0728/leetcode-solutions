@@ -6,7 +6,7 @@ My solution to leetcode problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 16 | 13 | 3 | 0 |
+| 17 | 13 | 4 | 0 |
 
 ## Activity
 
@@ -22,17 +22,17 @@ My solution to leetcode problems.
 | 2026-08-14 | 4 |
 | 2026-08-26 | 1 |
 | 2026-08-27 | 2 |
-| 2026-08-29 | 1 |
+| 2026-08-29 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 8 | 50% |
-| Hash Table | 5 | 31% |
-| Array | 4 | 25% |
-| String | 4 | 25% |
-| Sorting | 2 | 13% |
+| Database | 9 | 53% |
+| Hash Table | 5 | 29% |
+| Array | 4 | 24% |
+| String | 4 | 24% |
+| Sorting | 2 | 12% |
 | Boyer–Moore Majority Vote Algorithm | 1 | 6% |
 | Counting | 1 | 6% |
 | Divide and Conquer | 1 | 6% |
@@ -51,7 +51,7 @@ My solution to leetcode problems.
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 8 |
+| [Database](Topics/database/) | 9 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
