@@ -67,3 +67,11 @@ My solution to leetcode problems.
 | [Two Pointers](Topics/two-pointers/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/yv0728/leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
+<!---LeetCode Topics End-->
