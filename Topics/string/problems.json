@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-29T04:01:12.634Z",
+  "updatedAt": "2026-08-29T04:01:19.703Z",
   "problems": [
     {
       "frontendId": "459",
@@ -23,6 +23,26 @@
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.js",
           "sha": "b04fb2dea4bbb542c2590804e2e95b8732da0bef",
           "lastSyncedAt": "2026-08-29T04:01:00.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "541",
+      "title": "Reverse String II",
+      "slug": "reverse-string-ii",
+      "problemName": "0541-reverse-string-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-ii/",
+      "folderPath": "0541-reverse-string-ii/",
+      "readmePath": "0541-reverse-string-ii/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0541-reverse-string-ii.js",
+          "path": "0541-reverse-string-ii/0541-reverse-string-ii.js",
+          "sha": "44749609a15fe3024b2907e74566dc510954df19",
+          "lastSyncedAt": "2026-08-29T04:01:19.703Z"
         }
       ]
     },
