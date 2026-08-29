@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-29T04:01:00.797Z",
+  "updatedAt": "2026-08-29T04:01:12.634Z",
   "problems": [
     {
       "frontendId": "459",
@@ -23,6 +23,26 @@
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.js",
           "sha": "b04fb2dea4bbb542c2590804e2e95b8732da0bef",
           "lastSyncedAt": "2026-08-29T04:01:00.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "771",
+      "title": "Jewels and Stones",
+      "slug": "jewels-and-stones",
+      "problemName": "0771-jewels-and-stones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+      "folderPath": "0771-jewels-and-stones/",
+      "readmePath": "0771-jewels-and-stones/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0771-jewels-and-stones.js",
+          "path": "0771-jewels-and-stones/0771-jewels-and-stones.js",
+          "sha": "e7951ab72c02cf1869fb604516eee5125fd40da5",
+          "lastSyncedAt": "2026-08-29T04:01:12.634Z"
         }
       ]
     }
