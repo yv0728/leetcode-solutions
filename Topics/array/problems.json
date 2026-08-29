@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-29T04:00:50.296Z",
+  "updatedAt": "2026-08-29T04:01:27.484Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +63,26 @@
           "path": "0217-contains-duplicate/0217-contains-duplicate.js",
           "sha": "05b760cfb682368902e7b34182092b9cd18e7c75",
           "lastSyncedAt": "2026-08-29T04:00:44.084Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "problemName": "0500-keyboard-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+      "folderPath": "0500-keyboard-row/",
+      "readmePath": "0500-keyboard-row/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0500-keyboard-row.js",
+          "path": "0500-keyboard-row/0500-keyboard-row.js",
+          "sha": "14c3b4f62905e02bd41cc799c45f6ddead2611cb",
+          "lastSyncedAt": "2026-08-29T04:01:27.484Z"
         }
       ]
     }
