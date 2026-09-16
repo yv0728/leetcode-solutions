@@ -6,13 +6,13 @@ My solution to leetcode problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 13 | 4 | 0 |
+| 18 | 14 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 7 |
+| 1 days | 2 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
@@ -23,21 +23,22 @@ My solution to leetcode problems.
 | 2026-08-26 | 1 |
 | 2026-08-27 | 2 |
 | 2026-08-29 | 2 |
+| 2026-09-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 9 | 53% |
-| Hash Table | 5 | 29% |
-| Array | 4 | 24% |
-| String | 4 | 24% |
-| Sorting | 2 | 12% |
+| Database | 9 | 50% |
+| Hash Table | 5 | 28% |
+| String | 5 | 28% |
+| Array | 4 | 22% |
+| Sorting | 2 | 11% |
+| Two Pointers | 2 | 11% |
 | Boyer–Moore Majority Vote Algorithm | 1 | 6% |
 | Counting | 1 | 6% |
 | Divide and Conquer | 1 | 6% |
-| Knuth–Morris–Pratt Algorithm | 1 | 6% |
-| Math | 1 | 6% |
+| Dynamic Programming | 1 | 6% |
 
 ## Topics
 
@@ -53,7 +54,7 @@ My solution to leetcode problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 9 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
@@ -63,9 +64,9 @@ My solution to leetcode problems.
 | [Matrix](Topics/matrix/) | 0 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
