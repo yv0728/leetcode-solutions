@@ -79,4 +79,16 @@ My solution to leetcode problems.
 | [0180-consecutive-numbers](https://github.com/yv0728/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/yv0728/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/yv0728/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/yv0728/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/yv0728/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/yv0728/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
