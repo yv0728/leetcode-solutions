@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-29T04:07:25.973Z",
+  "updatedAt": "2026-09-16T15:59:01.932Z",
   "problems": [
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0392-is-subsequence.java",
+          "path": "0392-is-subsequence/0392-is-subsequence.java",
+          "sha": "3c486cac9656e41a77b8d5db80a900f4d18c4a39",
+          "lastSyncedAt": "2026-09-16T15:59:01.932Z"
+        }
+      ]
+    },
     {
       "frontendId": "459",
       "title": "Repeated Substring Pattern",
